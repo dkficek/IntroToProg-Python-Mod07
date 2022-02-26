@@ -70,7 +70,7 @@ while (True):
 
 Here's what it looks like when run in command window and the user enters a non-integer for the number of players:
 
-![Player_error](https://user-images.githubusercontent.com/99514147/155855218-1cb1fa55-e6ec-46d6-bbdb-6d18f99730eb.png)
+![Player_error](https://github.com/dkficek/IntroToProg-Python-Mod07/blob/main/docs/Player_error.png "Error showing the number of players entered wasn't a whole number")
 
 Note that, as the user continues to add games and players to the list, the program takes that information and appends it to a pickled file.  This is accomplished with 
 this section of code:
